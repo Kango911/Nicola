@@ -286,6 +286,7 @@ internal class Program
     {
         Console.WriteLine("Введите систему счисления для операции над числами:");
         string ss = Console.ReadLine();
+        Console.WriteLine(ss);
         
     } 
 }

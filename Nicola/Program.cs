@@ -262,7 +262,7 @@ internal class Program
 
     private static void FourthFunction()
     {
-
+        Console.WriteLine($"Финальное число: !");
     }
 
     private static void FifthFunction()

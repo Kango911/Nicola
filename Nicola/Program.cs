@@ -136,7 +136,6 @@ internal class Program
             result *= numberBase;
             result += num;
             Console.WriteLine($"({result / numberBase} * {numberBase}) + {num} = {result}");
-            //Console.WriteLine($"({result} * {numberBase}) + {num}");
         }
         Console.WriteLine($"В ходе манипуляций получаем новое число: {result}");
         return result;
